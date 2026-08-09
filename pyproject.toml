@@ -1,0 +1,15 @@
+[project]
+name = "warsaw-ride-platform"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "confluent-kafka>=2.15.0",
+    "faker>=40.36.0",
+    "fastapi>=0.141.1",
+    "osmnx>=2.1.1",
+    "python-dotenv>=1.2.2",
+    "supabase>=2.31.0",
+    "uvicorn>=0.52.1",
+]

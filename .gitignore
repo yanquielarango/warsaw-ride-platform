@@ -1,0 +1,22 @@
+# Environment
+.venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Databricks
+.databricks/
